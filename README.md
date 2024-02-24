@@ -10,18 +10,18 @@ Para hacer que el proceso de contribución sea fluido y efectivo, te pedimos que
 1. **Fork del Repositorio**: Haz un fork de este repositorio a tu propia cuenta pulsando el botón "Fork" en la esquina superior derecha de la página del repositorio.
 
 2. **Clonar Repositorio**: Clona el repositorio a tu máquina local con el siguiente comando:
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git
+`git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git`
 
 3. **Crea una Rama**: Cambia a la rama de desarrollo con el siguiente comando:
-git checkout -b nombre-de-tu-rama
+`git checkout -b nombre-de-tu-rama`
 
 4. **Realiza tus Cambios**: Realiza los cambios necesarios en el código.
 
 5. **Commit de Cambios**: Confirma tus cambios con un mensaje descriptivo utilizando el siguiente comando:
-git commit -m "Descripción corta de tus cambios"
+`git commit -m "Descripción corta de tus cambios"`
 
 6. **Subir Cambios**: Sube tus cambios a tu repositorio remoto con el siguiente comando:
-git push origin nombre-de-tu-rama
+`git push origin nombre-de-tu-rama`
 
 7. **Envío de Pull Request**: Ve a la página de tu repositorio en GitHub y selecciona la rama que has creado. Haz clic en el botón "Pull Request" para abrir un nuevo pull request.
 
